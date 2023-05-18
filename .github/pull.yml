@@ -1,5 +1,5 @@
 version: "1"
 rules:
-  - base: lineage-20
+  - base: lineage-20.0
     upstream: LineageOS:lineage-20
     mergeMethod: merge
